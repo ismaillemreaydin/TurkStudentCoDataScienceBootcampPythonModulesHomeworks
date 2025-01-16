@@ -1,2 +1,0 @@
-elma,meyve,5tl,10 adet
-armut ,meyve,5,10 adet
